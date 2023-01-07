@@ -46,12 +46,17 @@ body .container .main {
   position: relative;
 }
 body .container .main .text {
-  padding: 90px 0 0 0;
+  margin: 0 auto;
+  padding: 90px 35px 35px 50px;
   display: inline-block;
+  position: relative;
+  z-index: 2;
+  width: auto;
 }
 body .container .main .text h1 {
   margin: 0;
   color: white;
+  display: inline-block;
 }
 body .container .main .text ul li {
   color: white;

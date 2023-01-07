@@ -1,5 +1,5 @@
 import React from "react"
-import ddd from "./../img/React-icon.svg.png"
+import ddd from "./../img/react.png"
 export default function Main(){
     return(
         <main className="main">

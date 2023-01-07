@@ -47,12 +47,17 @@ body{
             overflow: hidden;
             position: relative;
             .text{
-                padding: 90px 0 0 0;
+                margin: 0 auto;
+                padding: 90px 35px 35px 50px;
                 display: inline-block;
+                position:relative;
+                z-index: 2;
+                width:auto;
                 // margin: auto;
                 h1{
                     margin:0;
                     color: white;
+                    display: inline-block;
                 }
                 ul{
                     li{
